@@ -1,0 +1,23 @@
+{
+  "name": "gnartistic",
+  "version": "2.2.22",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "gnartistic": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnartistic/cli-contact.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gnartistic/cli-contact/issues"
+  },
+  "homepage": "https://github.com/gnartistic/cli-contact#readme"
+}
